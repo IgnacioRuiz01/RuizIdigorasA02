@@ -15,7 +15,7 @@ class _ContadorScreenState extends State<ContadorScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Color(0xFF0C0C0C),
+      backgroundColor: Color.fromARGB(255, 26, 24, 24),
       body: SafeArea(
         child: Center(
           child: SingleChildScrollView(
