@@ -21,10 +21,9 @@ La aplicación consta de una pantalla principal (`ContadorScreen`) con un títul
 3. Ejecuta la aplicación en tu dispositivo o emulador.
 
 ## Imagenes
-![](img/foto1)
-![](img/foto2)
-![](img/foto3)
-![](img/foto4)
+![](.img/foto1.png)
+
+
 
 
 
